@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.sap.build.standard.inventoryDashboard.InvestoryDashboardFromBUILD",
+        "description": "InventoryDashboardFromBuild",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#InvestoryDashboardFromBUILD-Display",
+        "navigationComponentName": "com.sap.build.standard.inventoryDashboard",
+        "intentSemanticObject": "InvestoryDashboardFromBUILD",
+        "intentAction": "Display",
+        "html5ApplicationName": "investorydashboardfrombuild",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "cef1b8dc-1011-4c74-a9cc-df285c502b30"
+        ],
+        "contentPackages": [
+            "8137e7f7-4616-47ea-acc3-0d05e6934ad3"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Inventory App",
+        "subtitle": "Dashboard imported from BUILD",
+        "searchKeywords": "Inventory App,Dashboard imported from BUILD",
+        "displayIconUrl": "sap-icon://e-learning",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
